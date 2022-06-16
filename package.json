@@ -4,6 +4,8 @@
 	"description":"This is a project to pass FreeCodeCamp Back-End Course",
 	"keywords": [ "node.js", "boilerplate", "programming" ],
 	"license": "MIT",
+	"version": "0.0.7",
+
 
 	"dependencies": {
 		"express": "^4.14.0"
