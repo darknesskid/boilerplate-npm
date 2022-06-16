@@ -3,6 +3,8 @@
 	"author": "Shad Sabah",
 	"description":"This is a project to pass FreeCodeCamp Back-End Course",
 	"keywords": [ "node.js", "boilerplate", "programming" ],
+	"license": "MIT",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
